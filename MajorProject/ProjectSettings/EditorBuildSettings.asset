@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/assignment0.unity
+    guid: 1899a9c1ede048e4abcbd8a24456268d
+  - enabled: 1
+    path: Assets/Level1.unity
+    guid: 6c9011c98fffaa94382809b4fec47974
+  - enabled: 1
+    path: Assets/Level2.unity
+    guid: 8de17d868374b9946b595db7e86d53b6
+  - enabled: 1
+    path: Assets/Level3.unity
+    guid: 033d8ab9866d7084b8e72faef09dd04b
+  - enabled: 1
+    path: Assets/MajorProject.unity
+    guid: ae8aaac7ffcadea44bf52ab6b231de04
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e9f190567a563bc42a44b90ede5cc640,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c46006a24c7fcf5419ed1f11c51822f6,
+      type: 2}
